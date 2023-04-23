@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Which component is used to compile, debug and execute the java programs?",
+    "choice1": "JRE",
+    "choice2": "JDK",
+    "choice3": "JVM",
+    "choice4": "JIT",
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is not a Java feature?",
+    "choice1": "Object-oriented",
+    "choice2": "Use of pointers",
+    "choice3": "Portable",
+    "choice4": "Dynamic and Extensible",
+    "answer": 2
+  },
+  {
+    "question": "Which of these cannot be used for a variable name in Java?",
+    "choice1": "identifier & keyword",
+    "choice2": "identifier",
+    "choice3": "keyword",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "What is the extension of java code files?",
+    "choice1": " .js",
+    "choice2": ".txt",
+    "choice3": ".class",
+    "choice4": ".java",
+    "answer": 4
+  },
+  
+  {
+    "question": "Which environment variable is used to set the java path?",
+    "choice1": " MAVEN_Path",
+    "choice2": " JavaPATH",
+    "choice3": " Java",
+    "choice4": "JAVA_HOME",
+    "answer": 4
+  }
+  
+]

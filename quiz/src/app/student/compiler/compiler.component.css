@@ -1,0 +1,18 @@
+.a {
+    /* background-color: #ffff; */
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 150px;
+    color: #5777ba;
+    font-family: 'Merriweather', serif;
+  }
+  .chp {
+    padding-top: 0.5px;
+    padding-left: 15px;
+    font-family: 'Noto Serif', serif;
+    margin-left: 30px;
+    margin-left: 155px;
+  }
+  hr{
+    margin-left: 150px;
+  }
